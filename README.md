@@ -5,10 +5,22 @@
 ![Framework](https://img.shields.io/badge/-heroku-blue)
 
 ## Description:
-This is a Flask web app which predicts the price of Flight tickets and deployed on Heroku.
+This is a Flask web app which predicts the price of Flight tickets.
+(EDA, Hyper param Tuning, Time Series Analysis, Flask, Heroku)
 
-## Demo
+## Demo:
 
 Link: [https://price-flight.herokuapp.com/predict](https://price-flight.herokuapp.com/predict)
 
-![AppInterface](AppInterface.JPG)
+![AppInterface](Interface.JPG)
+
+## Data:
+
+[Kaggle Datasets](https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh/)
+
+
+## Contact ME :)
+
+[linkedin](https://www.linkedin.com/in/oumaima-boumlik-732066159/?locale=en_US)    
+
+[Medium](https://medium.com/@boumlikoumaima)
