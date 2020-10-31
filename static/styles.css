@@ -1,0 +1,19 @@
+body {
+    background-image: url(../static/img.JPG);
+    text-align: center;
+}
+.card{
+    background-color: rgba(255, 255, 255, .1);
+} 
+
+.navbar {
+    background-color: #333333;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
