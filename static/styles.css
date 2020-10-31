@@ -1,5 +1,5 @@
 body {
-    background-image: url(img.JPG);
+    background-image: url("../static/img.jpg");
     text-align: center;
 }
 .card{
