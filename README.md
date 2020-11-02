@@ -18,6 +18,11 @@ Link: [https://price-flight.herokuapp.com/predict](https://price-flight.herokuap
 
 [Kaggle Datasets](https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh/)
 
+## How to run the App?
+
+1. Install all the libraries mentioned in the requirements.txt file.
+2. Clone this repository in your local system.
+4. Open the command prompt from your project directory and run the command `python app.py`.
 
 ## Contact ME :)
 
